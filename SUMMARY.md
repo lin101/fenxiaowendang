@@ -1,4 +1,6 @@
 # Summary
+
+* [Introduction](README.md)
 * [分晓帮助中心](fenxiao.md)
   * [一、分晓产品直播指引](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin.md)
     * [1、直播授权](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/13001-zhi-bo-shou-quan.md)
