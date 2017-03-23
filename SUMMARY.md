@@ -14,13 +14,13 @@
         * [观看与讨论](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/23001-shou-ji-duan-jin-xing-zhi-bo/guan-kan-yu-tao-lun.md)
         * [直播回放](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/23001-shou-ji-duan-jin-xing-zhi-bo/zhi-bo-hui-fang.md)
         * [数据查看](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/23001-shou-ji-duan-jin-xing-zhi-bo/shu-ju-cha-kan.md)
-    * 3、电脑端进行直播
+    * [3、电脑端进行直播](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/33001-dian-nao-duan-jin-xing-zhi-bo.md)
       * [1.说明](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/1shuo-ming.md)
       * [2.准备事项](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/2zhun-bei-shi-xiang.md)
       * [3.操作步骤](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/3cao-zuo-bu-zou.md)
         * [创建直播](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/chuang-jian-zhi-bo.md)
         * [OBS软件直播](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/obsruan-jian-zhi-bo.md)
-        * 观看与讨论
+        * [观看与讨论](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/guan-kan-yu-tao-lun.md)
         * [结束直播](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/jie-shu-zhi-bo.md)
         * [直播回放](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/zhi-bo-hui-fang.md)
         * [数据统计](fenxiao/yi-3001-fen-xiao-chan-pin-zhi-bo-zhi-yin/shu-ju-tong-ji.md)
