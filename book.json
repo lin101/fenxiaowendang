@@ -11,9 +11,9 @@
             "multilingual":"false"
         },
         "fontsettings": {
-            "theme": 'white', // 'sepia', 'night' or 'white',
-            "family": 'sans', // 'serif' or 'sans',
-            "size": 3         // 1 - 4
+            "theme": 'white',
+            "family": 'sans',
+            "size": 3
         }  
     }
 }
