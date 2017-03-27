@@ -11,8 +11,8 @@
             "multilingual":"false"
         },
         "fontsettings": {
-            "theme": 'white',
-            "family": 'sans',
+            "theme": "white",
+            "family": "sans",
             "size": 3
         }  
     }
