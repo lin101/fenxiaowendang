@@ -9,6 +9,11 @@
                 "zh-cn": "编辑本页"
             },
             "multilingual":"false"
-        }    
+        },
+        "fontsettings": {
+            "theme": 'white', // 'sepia', 'night' or 'white',
+            "family": 'sans', // 'serif' or 'sans',
+            "size": 3         // 1 - 4
+        }  
     }
 }
