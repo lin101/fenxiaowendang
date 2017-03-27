@@ -4,7 +4,10 @@
     "pluginsConfig":{
         "editlink":{
             "base":"https://www.gitbook.com/book/lin101/fenxiao/details",
-            "lable":"Edit This Page",
+            "lable":{
+                "en": "Edit This Page",
+                "zh-cn": "编辑本页"
+            },
             "multilingual":"false"
         }    
     }
