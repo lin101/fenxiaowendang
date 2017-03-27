@@ -1,4 +1,11 @@
 {
     "title":"分晓app帮助文档",
-    "plugins":["emphasize"]
+    "plugins":["emphasize","editlink"],
+    "pluginsConfig":{
+        "editlink":{
+            "base":"https://www.gitbook.com/book/lin101/fenxiao/details",
+            "lable":"Edit This Page",
+            "multilingual":"false"
+        }    
+    }
 }
